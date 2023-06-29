@@ -9,12 +9,12 @@ I want your opinions and thoughts about the code. Please feel free to contact me
 ---------------------------------------------------------------------------------------------------
 
 Version 1.0.0 2023.06.22 \ 
-Version of packages used. (Please check these versions) \\
+Version of packages used. (Please check these versions) \
 numpy   1.21.4 \
 astropy 5.1.1 \
 pandas  1.3.5 \
 pydl    1.0.0 \
-ray     2.2.9 \
+ray     2.2.9 
 
 *** Based on observing data Parallelizing Friends of Friends algorithm *** 
 ra (0~360[degree]), dec (-90~90[degree]), redshift (>=10^(-3))
