@@ -1,5 +1,5 @@
 # CNUfof_utils 
-This is a Friends of Friends algorithm that make galaxy group finding. It is made by multiprocessing package "RAY"
+This is a Friends of Friends algorithm that makes galaxy group finding. It is made by multiprocessing package "RAY"
 
 ## Welcome to using Parallelizing Friends Of Friends. 
 I'm an undergraduate at the Exo-galaxy Lab in Chungnam National University. 
