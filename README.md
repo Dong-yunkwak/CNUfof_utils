@@ -17,7 +17,7 @@ pydl    1.0.0 \
 ray     2.2.9 
 
 *** Based on observing data Parallelizing Friends of Friends algorithm *** 
-ra (0~360[degree]), dec (-90~90[degree]), redshift (>=10^(-3))
+ra (0 ~ 360[degree]), dec (-90 ~ 90[degree]), redshift (>= 10^(-3))
 
 Cautions)  Before importing, You should install some of packages 
 - ray package (Parallelizing pack) 
