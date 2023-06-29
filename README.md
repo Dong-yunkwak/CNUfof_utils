@@ -5,6 +5,7 @@ This is a Friends of Friends algorithm that makes galaxy group finding. It is ma
 I'm an undergraduate at the Exo-galaxy Lab in Chungnam National University. 
 If you have any questions or feedback about PFOF code, Place contact us at the email address below.
 I want your opinions and thoughts about the code. Please feel free to contact me! 
+
 ***<Email : 98ehddbs@naver.com>***
 ---------------------------------------------------------------------------------------------------
 
