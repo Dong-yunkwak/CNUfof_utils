@@ -21,7 +21,7 @@ ray     2.2.9 -> It does not support to window enviroment (Curently, It is said 
 Based on observing data Parallelizing Friends of Friends algorithm
 ra (0 ~ 360[degree]), dec (-90 ~ 90[degree]), redshift (&ge; 10<sup>3</sup>)
 
-Cautions)  Before importing, You should install some of packages 
+Cautions)  Before importing, You should install the following pacakages 
 - ray package (Parallelizing pack) 
 - pydl package (gcirc function pack) 
 
