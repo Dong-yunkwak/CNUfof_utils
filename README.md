@@ -17,8 +17,9 @@ pandas  1.3.5 \
 pydl    1.0.0 \
 ray     2.2.9 -> It does not support to window enviroment (Curently, It is said that a beta version has been created in the Window) 
 
-*** Based on observing data Parallelizing Friends of Friends algorithm *** 
-ra (0 ~ 360[degree]), dec (-90 ~ 90[degree]), redshift (>= 10^(-3))
+
+Based on observing data Parallelizing Friends of Friends algorithm
+ra (0 ~ 360[degree]), dec (-90 ~ 90[degree]), redshift (&ge; 10<sup>3</sup>)
 
 Cautions)  Before importing, You should install some of packages 
 - ray package (Parallelizing pack) 
