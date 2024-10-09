@@ -9,7 +9,7 @@ I want your opinions and thoughts about the code. Please feel free to contact me
 ***<Email : 98ehddbs@naver.com>***
 ---------------------------------------------------------------------------------------------------
 
-Version 1.0.0 2023.06.22  
+Version 1.0.6 2024.06.28  
 Version of packages used. (Please check these versions) \
 numpy   1.21.4 \
 astropy 5.1.1 \
