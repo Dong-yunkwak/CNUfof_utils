@@ -3,8 +3,8 @@ This is a Friends of Friends algorithm that makes galaxy group finding. It is ma
 
 ## Welcome to using Parallelizing Friends Of Friends. 
 I'm an undergraduate at the Exo-galaxy cosmology Lab in Chungnam National University. 
-If you have any questions or feedback about PFOF code, Place contact me at the email address below! 
-I want your opinions and thoughts about the code. Please feel free to contact me! 
+If you have any questions or feedback about PFOF code, Please contact me at the email address below! 
+I want your opinions and thoughts about my code. Therefore, please feel free to contact me! 
 
 ***<Email : 98ehddbs@naver.com>***
 ---------------------------------------------------------------------------------------------------
