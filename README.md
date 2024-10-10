@@ -1,7 +1,7 @@
 # CNUfof_utils 
 This is a Friends of Friends algorithm that makes galaxy group finding. It is made by multiprocessing package "RAY"
 
-## Welcome to using Parallelizing Friends Of Friends. 
+## Welcome to using Parallelizing Friends of Friends (PFoF). 
 I'm an undergraduate at the Exo-galaxy cosmology Lab in Chungnam National University. 
 If you have any questions or feedback about PFOF code, Please contact me at the email address below! 
 [I want your opinions and thoughts about my code.]
